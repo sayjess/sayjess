@@ -12,8 +12,8 @@ I'm a passionate Frontend Developer with a love for creating user-friendly and v
 
 ## Get in Touch
 
-- GitHub: [Your GitHub Profile](https://github.com/sayjess)
-- Email: [Your Email Address](mailto:jessjelardo@gmail.com)
+- GitHub: [sayjess](https://github.com/sayjess)
+- Email: [jessjelardo@gmail.com](mailto:jessjelardo@gmail.com)
 
 Feel free to connect with me, collaborate on projects, or just say hi!
 
