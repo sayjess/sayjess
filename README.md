@@ -1,4 +1,4 @@
-# Hello, I'm [Jessa Marie Elardo]
+# Hello, I'm Jessa Marie Elardo
 
 I'm a passionate Frontend Developer with a love for creating user-friendly and visually appealing web applications. I specialize in HTML, CSS, JavaScript, React, and have a solid foundation in Firebase. I enjoy bringing ideas to life through code and am constantly learning and improving my skills.
 
