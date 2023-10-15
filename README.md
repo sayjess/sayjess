@@ -1,10 +1,20 @@
-Hi👋, I’m Jessa Marie Elardo.
-I am an aspiring Web Developer.
-I’m currently taking the [Complete Web Developer Course by ZTM Academy](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8679886#overview) in Udemy.
- I’m looking forward to collaborating and learning from other web developers.
-For questions and concerns, you can reach out to me through my [LinkedIn Account](https://www.linkedin.com/in/elardojessj).
+# Hello, I'm [Jessa Marie Elardo]
 
-<!---
-sayjess/sayjess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Frontend Developer with a love for creating user-friendly and visually appealing web applications. I specialize in HTML, CSS, JavaScript, React, and have a solid foundation in Firebase. I enjoy bringing ideas to life through code and am constantly learning and improving my skills.
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Firebase (Basics)
+
+## Get in Touch
+
+- GitHub: [Your GitHub Profile](https://github.com/sayjess)
+- Email: [Your Email Address](mailto:jessjelardo@gmail.com)
+
+Feel free to connect with me, collaborate on projects, or just say hi!
+
+Thanks for visiting my GitHub profile! 😄
