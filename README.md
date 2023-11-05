@@ -8,7 +8,7 @@ I'm a passionate Frontend Developer with a love for creating user-friendly and v
 - CSS
 - JavaScript
 - React
-- Firebase (Basics)
+- Firebase
 
 ## Get in Touch
 
